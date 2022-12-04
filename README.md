@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nur Said Amirudin
+- 👀 I’m interested in Javascript Language
+- 🌱 I’m currently learning Node JS and React Framework
+- 🐱‍🏍 "Keep learning and Keep growing"
